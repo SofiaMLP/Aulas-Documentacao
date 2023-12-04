@@ -4,9 +4,9 @@
 * [HOME](./)
 
 * [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
   * [Java](./tutorials/java/index)
+  * [C](./tutorials/c/index)
+  * [Phyton](./tutorials/phyton/index)
 
 * [About](./about/index)
 

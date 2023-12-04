@@ -1,8 +1,8 @@
 
-# Tutorials for every technologist
+# Tutorials for Phyton
 
 Learn about all these great technologies:
 
-[Tomcat](./tomcat/index.md)
-[Cloud](./cloud/index.md)
+[C e C++](./c/index.md)
+[Phyton](./phyton/index.md)
 [Java](./java/index.md)
